@@ -1,11 +1,11 @@
-# Hi there 👋 , I'm Moch. Fachrizal Zakaria! 
+# Hi there 👋 , I'm Shovi Yasmine Bintang Sudrajad! 
  i'm a freelancer web developer. I live in Surabaya , East Java, Indonesia. And i'am also contributed to open source project. Nice to meet You Guys ! 
  <br> 
  <br> 
   
  # Current My activity 
  - 💬 Ask me about anything, I am happy to help 
- - 📫 How to reach me mfachrizaalz@gmail.com 
+ - 📫 How to reach me shoviyasminebintangsudrajad@pe.student.pens.ac.id
  <br> 
  <br> 
   
